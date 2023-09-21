@@ -36,7 +36,7 @@ The Advanced Football Management System is a Java-based application that allows 
 
 3. Build and run the project.
 
-###Usage
+## Usage
 
 1. Launch the application.
 
