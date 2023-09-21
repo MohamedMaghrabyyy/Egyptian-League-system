@@ -32,20 +32,14 @@ The Advanced Football Management System is a Java-based application that allows 
 1. Clone the repository:
    ```shell
    git clone https://github.com/your-username/advanced-football-management-system.git
-Open the project in your Java IDE or text editor.
+2. Open the project in your Java IDE or text editor.
 
-Build and run the project.
+3. Build and run the project.
 
-Usage
-Launch the application.
+###Usage
 
-Use the provided graphical user interface (GUI) to perform various actions such as adding players, referees, teams, and matches.
+1. Launch the application.
 
-Input the required information in the provided text fields and click the corresponding buttons to add the data.
+2. Use the provided graphical user interface (GUI) to perform various actions such as adding players, referees, teams, and matches.
 
-Contributing
-Contributions to the Advanced Football Management System are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-Acknowledgments
-The project is developed as part of a programming assignment or personal project.
-Thanks to the creators of JavaFX for providing the GUI framework.
+3. Input the required information in the provided text fields and click the corresponding buttons to add the data.
